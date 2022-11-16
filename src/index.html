@@ -7,8 +7,12 @@
     <title>React BC 2022</title>
 </head>
 <body>
-    <div>
-        <h1>Hello World</h1>
-    </div>
+    <div id="root"></div>
+    <script>
+        const root = document.getElementById("root");
+        const heading = document.createElement("h1");
+        heading.innerText = "Hello World";
+        root.appendChild(heading);
+    </script>
 </body>
 </html>
