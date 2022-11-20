@@ -1,4 +1,9 @@
+#dependencies
 .parcel-cache
-dist
 node_modules
+
+#build
+dist
+
+#misc
 .DS_Store
