@@ -1,3 +1,5 @@
+## Ignite the App
+
 Step 1 - Install the required dependencies: `npm install`
 
 Step 2 - Run the app: `npm run start`
